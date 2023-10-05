@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/danigarciaorg" target="blank"><img src="https://img.shields.io/twitter/follow/danigarciaorg?logo=twitter&style=for-the-badge" alt="danigarciaorg" /></a> </p>
 
-- 🌱 I’m currently learning **React and NextJS**
+- 🌱 I’m currently learning **Express, Playwright, React and NextJS**
 
 - 💬 Ask me about **QA, Automation, Cypress, Javascript, Typescript**
 
