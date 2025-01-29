@@ -7,13 +7,13 @@
 
 <p align="center"> <a href="https://twitter.com/danigarciaorg" target="blank"><img src="https://img.shields.io/twitter/follow/danigarciaorg?logo=twitter&style=for-the-badge" alt="danigarciaorg" /></a> </p>
 
-- 🌱 I’m currently learning **Express, Playwright, React and NextJS**
+- 🌱 I’m currently learning **Terraform and Kubernetes**
 
-- 💬 Ask me about **QA, Automation, Cypress, Javascript, Typescript**
+- 💬 Ask me about **QA, Automation, Cypress, Playwright, Javascript, Typescript**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/danigarciaorg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danigarciaorg" height="30" width="40" /></a>
+<a href="https://x.com/danigarciaorg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danigarciaorg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/danielggarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielggarcia" height="30" width="40" /></a>
 </p>
 
