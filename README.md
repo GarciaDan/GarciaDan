@@ -49,8 +49,9 @@
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/graphql/E10098" alt="graphql" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garciadan&show_icons=true&locale=en&layout=compact" alt="garciadan" /></p>
+<!-- stats servidas por instancia propia en Vercel (garciadan-stats), con PAT_1 — nunca usar la instancia pública, va saturada -->
+<p><img align="center" src="https://garciadan-stats.vercel.app/api/top-langs?username=garciadan&show_icons=true&locale=en&layout=compact" alt="garciadan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garciadan&show_icons=true&locale=en" alt="garciadan" /></p>
+<p>&nbsp;<img align="center" src="https://garciadan-stats.vercel.app/api?username=garciadan&show_icons=true&locale=en" alt="garciadan" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=garciadan" alt="garciadan" /></p>
