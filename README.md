@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">SDET · Agentic QA — I design the agents that design the tests</h3>
+<h3 align="center">SDET · Agentic QA — I design the agents that design (and run) the tests</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=garciadan&label=Profile%20views&color=0e75b6&style=flat" alt="garciadan" />
@@ -10,7 +10,7 @@
 
 - 🎓 **Claude Certified Associate – Foundations (CCAO-F)** — preparing the **Claude Certified Developer – Foundations (CCDV-F)** exam
 
-- 🌱 Still going deeper on **Terraform and Kubernetes** (LPIC-3 / CKA path)
+- 🌱 Still going deeper on **Terraform and Kubernetes** (CKA path)
 
 - 💬 Ask me about **Agentic QA, test automation, Playwright, k6, TypeScript, CI/CD**
 
