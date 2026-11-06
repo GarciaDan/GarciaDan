@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">SDET · Agentic QA — I design the agents that design (and run) the tests</h3>
+<h1 align="center">Hi 👋, I'm Dani</h1>
+<h3 align="center">Jack of all trades · SDET · Agentic QA — I design the agents that design (and run) the tests</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=garciadan&label=Profile%20views&color=0e75b6&style=flat" alt="garciadan" />
   <a href="https://www.pearsonvue.com/us/en/anthropic.html"><img src="https://img.shields.io/badge/Claude_Certified_Associate-CCAO--F-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Certified Associate – Foundations (CCAO-F)" /></a>
+  <a href="https://www.pearsonvue.com/us/en/anthropic.html"><img src="https://img.shields.io/badge/Claude_Certified_Developer-CCDV--F-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Certified Developer – Foundations (CCDV-F)" /></a>
 </p>
+
+- 🚦 Expertise: CI/CD Quality gates, Cypress, Playwright, GitHub actions
 
 - 🔭 I'm currently working on **Agentic QA**: instead of hand-writing tests, I design and orchestrate **AI agents** (Claude, GitHub Copilot) that do the testing
 
-- 🎓 **Claude Certified Associate – Foundations (CCAO-F)** — preparing the **Claude Certified Developer – Foundations (CCDV-F)** exam
+- 🎓 **Claude Certified Associate – Foundations (CCAO-F)** & **Claude Certified Developer – Foundations (CCDV-F)** exam
 
 - 🌱 Still going deeper on **Terraform and Kubernetes** (CKA path)
 
